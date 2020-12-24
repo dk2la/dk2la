@@ -12,6 +12,9 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sjakku?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dk2la&show_icons=true&theme=dark)
+
+
 <!--
 **dk2la/dk2la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
