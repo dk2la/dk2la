@@ -12,7 +12,7 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sjakku?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dk2la&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dk2la&show_icons=true&theme=radical)
 
 
 <!--
