@@ -7,7 +7,7 @@
 
 Если есь вопросы по проектам, пишите в Slack (@sjakku)!
 
-- 🔭 Сейчас я работаю на проектом webserv
+- 🔭 Сейчас я работаю на проектом ft_trancendence!
 
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/sjakku?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
